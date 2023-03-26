@@ -1,0 +1,9 @@
+{
+    "max-instances": "10",
+    "description": "Displays Nvidia GPU & Utilisation",
+    "name": "NVIDIA Gpu Utilisation",
+    "version": "1.13",
+    "uuid": "nvutlz@gediz",
+    "author": "gediz",
+    "last-edited": 1680000000
+}
